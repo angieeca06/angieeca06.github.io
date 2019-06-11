@@ -10,7 +10,6 @@ class App extends React.Component{
       <HashRouter basename="/">
         <div className="App">
           <Switch>
-            {/* <Route exact path="/" component={NavBarElements} /> */}
             <Route exact path="/" component={PrincipalPage} />
           </Switch>
         </div>
