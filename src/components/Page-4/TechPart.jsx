@@ -1,20 +1,60 @@
 import React from "react";
+import "./Skills.css"
 
 class TechnicalSkills extends React.Component{
     render(){
         return(
-            <div className="container col-sm-12">
-                <h1>Tech</h1>
+            <div className="container  col-sm-12">
+                <h1>Technical Skills</h1>
                 <ul className="list-group list-group-flush bg-transparent">
-                    <li className="list-group-item bg-transparent">Javascrip Vanilla</li>
-                    <li className="list-group-item bg-transparent">HTML 5 & CSS 3</li>
-                    <li className="list-group-item bg-transparent">GitHub</li>
-                    <li className="list-group-item bg-transparent">Git</li>
-                    <li className="list-group-item bg-transparent">firebase</li>
-                    <li className="list-group-item bg-transparent">Node.js</li>
-                    <li className="list-group-item bg-transparent">Figma</li>
-                    <li className="list-group-item bg-transparent">React JS</li>
-                    <li className="list-group-item bg-transparent">Bootstrap</li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>Javascrip Vanilla</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped js" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>HTML 5 & CSS 3</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped html-css" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>GitHub & Git</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped github" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>firebase</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped firebase" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>Node.js</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped node-js" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>Figma</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped figma" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>React JS</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped react-js" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li className="list-group-item bg-transparent">
+                        <h6>Bootstrap</h6>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped bootstrap" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </li>
                 </ul>
             </div>
         )

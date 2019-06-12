@@ -10,13 +10,11 @@ class Skills extends React.Component{
             <div className="container col-lg-12 col-sm-12">
                 <NavbarElements/>
                 <div className="row">
-                    <div className="col col-lg-5 col-sm-6 text-center">
+                    <div className="col col-lg-5 col-sm-5 text-center">
                         <SoftSkills/>
                     </div>
-                    <div className="col col-lg-2 col-sm<-0 img">
-                        <img className="img" src="http://www.patrise.es/wp-content/uploads/2015/12/IMG_6419-400x400.png" />
-                    </div>
-                    <div className="col col-lg-5 col-sm-6 text-center">
+                    <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/5.png" className="img-fluid col-lg-2 col-sm-2" alt="Responsive image"></img>
+                    <div className="col col-lg-5 col-sm-5 text-center">
                         <TechnicalSkills />
                     </div>
                 </div>
