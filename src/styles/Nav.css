@@ -1,3 +1,7 @@
-.navbar-image{
-    background-image: url("https://image.freepik.com/vector-gratis/resumen-fantastico-diseno-vectores-fondo_48-10250.jpg")
+.colorPink{
+    background-color: rgb(206, 18, 121, 0.479);
+}
+
+.colorGold{
+    background-color: rgba(218, 165, 32, 0.479);
 }
