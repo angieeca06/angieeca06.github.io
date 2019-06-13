@@ -8,7 +8,7 @@ class SoftKills extends React.Component{
                 <h1>Soft Kills</h1>
                 <ul className="list-group list-group-flush bg-transparent">
                     <li className="list-group-item bg-transparent">
-                        <h5>LeaderShip</h5>
+                        <h5>Leadership</h5>
                         <div class="progress">
                             <div class="progress-bar progress-bar-striped  leadership" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
@@ -32,7 +32,7 @@ class SoftKills extends React.Component{
                         </div>
                     </li>
                     <li className="list-group-item bg-transparent">
-                        <h5>Resposible</h5>
+                        <h5>Responsible</h5>
                         <div class="progress">
                             <div class="progress-bar progress-bar-striped responsible" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>

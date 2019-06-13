@@ -18,10 +18,10 @@ class Proyects extends React.Component{
                             <img src="https://fotos.subefotos.com/e99ef11b5288d8fb6226514902509bc7o.png" class="d-block w-100 img col-lg-8" alt="..."/>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-none d-md-block">
-                                    <h5 className="text-center">Organa</h5>
-                                    <p className="text-center">Project created to Laboratoria with technologies how React, React Bootstrap, Firebase. Its consist in scanner a QR code and regist a assitance. I realiced this project in team.
+                                    <h3 className="text-center">Organa</h3>
+                                    <h5 className="text-center">Project created to Laboratoria with technologies like React, React Bootstrap, Firebase. It consists in a QR scanner to register the student assitance. I realiced this project in team.
                                         <a className="text-center letter-color" target="_blank" href="https://shareazc.github.io/open-house-organa/#/"> Ver Demo</a>
-                                    </p>
+                                    </h5>
                                     <br/>
                                 </div>
                             </div>
@@ -30,10 +30,10 @@ class Proyects extends React.Component{
                             <img src="https://fotos.subefotos.com/e7f8f804c5b74913372ac88bce4e38ffo.jpg" class="d-block col-lg-8 img w-100 " alt="..."/>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-none d-md-block">
-                                    <h5 className="text-center">Burger Queen</h5>
-                                    <p className="text-center">Project created to a restaurant with technologies how React, Bootstrap, Firebase. Its consist in a paage when the waiter take a order and send to kitchen, They see a total and delete the food to the order.    
+                                    <h3 className="text-center">Burger Queen</h3>
+                                    <h5 className="text-center">Project created for a restaurant with technologies like React, Bootstrap, Firebase. It consists of an screen where the waiter will take the order and sending to the kitchen.    
                                         <a className="text-center letter-color" target="_blank" href="https://angieeca06.github.io/GDL002-burger-queen/#/"> Ver Demo</a>
-                                    </p>
+                                    </h5>
                                     <br/>
                                 </div>
                             </div>
@@ -42,10 +42,10 @@ class Proyects extends React.Component{
                             <img src="https://fotos.subefotos.com/c7a3870b38c50a2857685f60f16b7326o.png" class="d-block col-lg-8 img w-100" alt="..."/>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-none d-md-block">
-                                    <h5 className="text-center">Cipher</h5>
-                                    <p className="text-center">Project created for code and descipher a message with the Cesar Cipher, with technologies how VanillaJs, CSS, HTML.
+                                    <h3 className="text-center">Cipher</h3>
+                                    <h5 className="text-center">Project created for coding and decoding a message with the Cesar Cipher, with technologies like VanillaJs, CSS, HTML.
                                         <a className="text-center letter-color" target="_blank" href="https://angieeca06.github.io/gdl-2019-01-bc-core-cipher/src/"> Ver Demo</a>
-                                    </p>
+                                    </h5>
                                     <br/>
                                 </div>
                             </div>

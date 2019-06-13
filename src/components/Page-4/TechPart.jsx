@@ -8,7 +8,7 @@ class TechnicalSkills extends React.Component{
                 <h1>Technical Skills</h1>
                 <ul className="list-group list-group-flush bg-transparent">
                     <li className="list-group-item bg-transparent">
-                        <h6>Javascrip Vanilla</h6>
+                        <h6>Javascript Vanilla</h6>
                         <div class="progress">
                             <div class="progress-bar progress-bar-striped js" role="progressbar"  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
