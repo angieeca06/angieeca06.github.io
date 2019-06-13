@@ -5,3 +5,9 @@
 .colorGold{
     background-color: rgba(218, 165, 32, 0.479);
 }
+
+.mp{
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+}

@@ -14,7 +14,7 @@ class Proyects extends React.Component{
                         <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                     </ul>
                     <div class="carousel-inner">
-                        <div class="carousel-item active col-lg-12">
+                        <div class="carousel-item active col-lg-12" >
                             <img src="https://fotos.subefotos.com/e99ef11b5288d8fb6226514902509bc7o.png" class="d-block w-100 img col-lg-8" alt="..."/>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-none d-md-block">
