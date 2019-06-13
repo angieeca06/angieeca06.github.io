@@ -31,7 +31,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-none d-md-block">
                                     <h3 className="text-center">Burger Queen</h3>
-                                    <h5 className="text-center">Project created for a restaurant with technologies like React, Bootstrap, Firebase. It consists of an screen where the waiter will take the order and sending to the kitchen.    
+                                    <h5 className="text-center">Project created for a restaurant with technologies like React, Bootstrap, Firebase. It consists of an screen where the waiter will take the order and send it to the kitchen.    
                                         <a className="text-center letter-color" target="_blank" href="https://angieeca06.github.io/GDL002-burger-queen/#/"> Ver Demo</a>
                                     </h5>
                                     <br/>

@@ -6,6 +6,7 @@ import PrincipalPage from './components/Page-1/PrincipalPage';
 import AboutMe from "./components/Page-2/AboutMe"
 import Skills from './components/Page-4/Skills';
 import Proyects from './components/Page-3/Proyects';
+import Contact from './components/Page-5/Contact';
 
 class App extends React.Component{
   render(){
@@ -17,6 +18,7 @@ class App extends React.Component{
             <Route exact path="/about" component={AboutMe} />
             <Route exact path="/skills" component={Skills} />
             <Route exact path="/projects" component={Proyects} />
+            <Route exact path="/contact" component={Contact} />
           </Switch>
         </div>
       </HashRouter>

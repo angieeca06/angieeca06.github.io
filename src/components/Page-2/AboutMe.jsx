@@ -13,9 +13,9 @@ class AboutMe extends React.Component{
                     </div>
                     <div className="col col-lg-8 col-sm-8">
                         <h3 className="col-lg-12 col-sm-12"> 
-                            Hello¡ My name is Angelica Caballero, I live in Guadalajara the land of Tequila and Mariachi.
+                            ¡Hello! My name is Angelica Caballero, I live in Guadalajara the land of Tequila and Mariachi.
                             I am currently studying as a Front End Developer at Laboratoria's bootcamp. I am passionate about the food process and its analysis, I love acquiring knowledge and sharing it.
-                            I curious about why are there only a few women in the tech world. I would love to keep learning more and more about programming.
+                            I am curious about why are there only a few women in the tech world. I would love to keep learning more and more about programming.
                         </h3>
                     </div>
                 </div>

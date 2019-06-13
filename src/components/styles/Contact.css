@@ -1,0 +1,15 @@
+.color-btn{
+    background-color:  rgba(218, 165, 32, 0.479);
+}
+
+.style-btn{
+    border: none
+}
+
+.text{
+    color: rgba(252, 58, 165);
+}
+
+.space{
+    margin-top: 100px;
+}
