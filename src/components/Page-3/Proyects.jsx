@@ -8,11 +8,11 @@ class Proyects extends React.Component{
             <div class="bd-example">
                 <NavbarElements/>
                 <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
+                    <ul class="carousel-indicators">
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-                    </ol>
+                    </ul>
                     <div class="carousel-inner">
                         <div class="carousel-item active col-lg-12">
                             <img src="https://fotos.subefotos.com/e99ef11b5288d8fb6226514902509bc7o.png" class="d-block w-100 img col-lg-8" alt="..."/>
