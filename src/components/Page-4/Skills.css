@@ -68,3 +68,9 @@
     width: 80%;
     background-color: goldenrod;
 }
+
+@media only screen and (max-width: 600px) {
+    .flowerImg{
+        display: none;
+    }
+}

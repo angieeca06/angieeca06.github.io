@@ -1,5 +1,4 @@
 import React from "react";
-import NavbarElments from "../NavBarElements";
 import "../styles/AboutMe.css"
 
 class AboutMe extends React.Component{
@@ -7,10 +6,9 @@ class AboutMe extends React.Component{
     render(){
         return(
             <div className="contrainer col-lg-12 col-sm-12">
-                <NavbarElments/>
                 <div className="row">
                     <div className="col col-lg-4 col-sm-4 divImg">
-                        <img className="col-lg-12 col-sm-12 img" src="https://avatars2.githubusercontent.com/u/47005893?s=460&v=4"/>
+                        <img className="col-lg-12 col-sm-12 img" src="https://avatars2.githubusercontent.com/u/47005893?s=460&v=4" alt="..."/>
                     </div>
                     <div className="col col-lg-8 col-sm-8">
                         <h3 className="col-lg-12 col-sm-12 letter"> 

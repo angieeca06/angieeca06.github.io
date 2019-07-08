@@ -7,12 +7,30 @@
     justify-content: center;
 }
 
-.letterquery{
-    
+.instruccion{
+    text-align: center;
 }
 @media only screen and (max-width: 600px) {
     body {
         background-image: none;
-        font-size: 10px
+        font-size: 10px;
+        height: 1500px;
     }
+    .letterquery{
+        font-size: 35px;
+        margin-top: 50px;
+    }
+    .instruccion{
+        margin-top: 50px;
+        
+    }
+    .image{
+        margin-top: 50px;
+        height: 300px;
+        align-items: center;
+        justify-content: center;
+        margin-left: auto;
+        margin-right: auto
+    }
+
   }
