@@ -11,6 +11,7 @@ class Proyects extends React.Component{
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+                        <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
                     </ul>
                     <div className="carousel-inner">
                         <div className="carousel-item active col-lg-12" >
@@ -18,7 +19,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-md-block">
                                     <h3 className="text-center">Organa</h3>
-                                    <h5 className="text-center">Proyecto creado para Laboratoria con tecnilogías como React, React bootstrap, Firebase. Consiste en registrar la asistencia por medio de un código QR. Realice éste proyecto en equipo.</h5>
+                                    <h5 className="text-center">Proyecto creado para Laboratoria con tecnologías como React, React bootstrap, Firebase. Consiste en registrar la asistencia por medio de un código QR. Realicé éste proyecto en equipo.</h5>
                                     <br/>
                                     <br/>
                                 </div>
@@ -40,7 +41,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
                                     <h3 className="text-center">Cipher</h3>
-                                    <h5 className="text-center">Proyecto creado para cifrar y descifrar mensajes mediante el código Cesar Cipher, con tecnilogías como vanillaJs, CSS 3, HTML 5.</h5>
+                                    <h5 className="text-center">Proyecto creado para cifrar y descifrar mensajes mediante el código Cesar Cipher, con tecnologías como vanillaJs, CSS 3, HTML 5.</h5>
                                     <br/>
                                     <br/>
                                 </div>
