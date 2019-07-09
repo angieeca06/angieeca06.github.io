@@ -13,8 +13,8 @@ class Proyects extends React.Component{
                         <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                         <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
                     </ul>
-                    <div className="carousel-inner">
-                        <div className="carousel-item active col-lg-12" >
+                    <div className="carousel-inner" >
+                        <div className="carousel-item active col-lg-12" data-interval="2000">
                             <a target="_blank" href="https://shareazc.github.io/open-house-organa/#/" ><img src="https://fotos.subefotos.com/e99ef11b5288d8fb6226514902509bc7o.png" className="d-block w-100 img col-lg-8" alt="..."/></a>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-md-block">
@@ -25,7 +25,7 @@ class Proyects extends React.Component{
                                 </div>
                             </div>
                         </div>
-                        <div className="carousel-item col-lg-12">
+                        <div className="carousel-item col-lg-12" data-interval="2000">
                             <a target="_blank" href="https://angieeca06.github.io/GDL002-burger-queen/#/" ><img src="https://fotos.subefotos.com/db20387c79ad521227d48addc60cfb11o.png" className="d-block col-lg-8 img w-100 " alt="..."/></a>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
@@ -36,7 +36,7 @@ class Proyects extends React.Component{
                                 </div>
                             </div>
                         </div>
-                        <div className="carousel-item col-lg-12">
+                        <div className="carousel-item col-lg-12" data-interval="2000">
                             <a target="_blank" href="https://angieeca06.github.io/gdl-2019-01-bc-core-cipher/src/" ><img src="https://fotos.subefotos.com/c7a3870b38c50a2857685f60f16b7326o.png" className="d-block col-lg-8 img w-100" alt="..."/></a>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
@@ -47,7 +47,7 @@ class Proyects extends React.Component{
                                 </div>
                             </div>
                         </div>
-                        <div className="carousel-item col-lg-12">
+                        <div className="carousel-item col-lg-12" data-interval="2000">
                             <a target="_blank" href="https://angieeca06.github.io/GDL002-framework-social-network/#/" ><img src="https://fotos.subefotos.com/011b24a7e5fc0856285a8cdbb1d03860o.png" className="d-block col-lg-8 img w-100" alt="..."/></a>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
