@@ -13,8 +13,8 @@ class AboutMe extends React.Component{
                     </div>
                     <div className="col col-lg-8 col-sm-8">
                         <h3 className="col-lg-12 col-sm-12 letter"> 
-                            ¡Hola! Mi nombre es Angélica Caballero, soy una desarrolladora front end, con conocimientos de Javascript, Me considero una persona autodidacta
-                            Me sumergí en el mundo de la técnologia porque me da curiosidad por la cantidad de mujeres que se encuentran en el ambito.
+                            ¡Hola! Mi nombre es Angélica Caballero, soy una desarrolladora front end, con conocimientos de Javascript. Me considero una persona autodidacta y dedicada.
+                            Me sumergí en el mundo de la tecnología porque me da curiosidad la cantidad de mujeres que se encuentran en el ambito.
                             Me gusta jugar futbol porque aparte de ser un buen deporte, se desarrollan habilidades como planeación, trabajar en equipo y resolución de problemas.
                         </h3>
                     </div>
