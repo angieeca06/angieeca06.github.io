@@ -4,7 +4,8 @@ import "../styles/Proyects.css";
 class Proyects extends React.Component{
     render(){
         return(
-            <div className="bd-example">
+            <div className="bd-example" id="projects">
+                <h1 className="title">Proyectos</h1>
                 <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
                     <ul className="carousel-indicators">
                         <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>
@@ -17,7 +18,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form d-md-block">
                                     <h3 className="text-center">Organa</h3>
-                                    <h5 className="text-center">Project created to Laboratoria with technologies like React, React Bootstrap, Firebase. It consists in a QR scanner to register the student assitance. I realiced this project in team.
+                                    <h5 className="text-center">Proyecto creado para Laboratoria con técnilogias como React, React bootstrap, Firebase. Consiste en registrar la asistencia por medio de un código QR. Realice éste proyecto en equipo.
                                         <a className="text-center letter-color" target="_blank" href="https://shareazc.github.io/open-house-organa/#/"> Ver Demo</a>
                                     </h5>
                                     <br/>
@@ -30,7 +31,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
                                     <h3 className="text-center">Burger Queen</h3>
-                                    <h5 className="text-center">Project created for a restaurant with technologies like React, Bootstrap, Firebase. It consists of an screen where the waiter will take the order and send it to the kitchen.    
+                                    <h5 className="text-center">Proyecto creado para un restaurante con técnologias como React, Bootstrap, Firebase. Consiste en una página donde el mesero puede tomar una orden y mandarla a la cocina, para ser preparadas.    
                                         <a className="text-center letter-color" target="_blank" href="https://angieeca06.github.io/GDL002-burger-queen/#/"> Ver Demo</a>
                                     </h5>
                                     <br/>
@@ -43,7 +44,7 @@ class Proyects extends React.Component{
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
                                     <h3 className="text-center">Cipher</h3>
-                                    <h5 className="text-center">Project created for coding and decoding a message with the Cesar Cipher, with technologies like VanillaJs, CSS, HTML.
+                                    <h5 className="text-center">Proyecto creado para cifrar y descifrar mensajes mediante el código Cesar Cipher, con técnilogias como vanillaJs, CSS 3, HTML 5.
                                         <a className="text-center letter-color" target="_blank" href="https://angieeca06.github.io/gdl-2019-01-bc-core-cipher/src/"> Ver Demo</a>
                                     </h5>
                                     <br/>

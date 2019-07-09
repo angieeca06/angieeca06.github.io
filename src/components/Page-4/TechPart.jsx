@@ -5,7 +5,7 @@ class TechnicalSkills extends React.Component{
     render(){
         return(
             <div className="container  col-sm-12">
-                <h1>Technical Skills</h1>
+                <h1>Técnicas</h1>
                 <ul className="list-group list-group-flush bg-transparent">
                     <li className="list-group-item bg-transparent">
                         <h6>Javascript Vanilla</h6>

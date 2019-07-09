@@ -4,8 +4,9 @@ import "../styles/Contact.css"
 class FormContact extends React.Component{
     render(){
         return(
-            <div>
-                <div className="container col-lg-10 space">
+            <div id="contact">
+                <h1 className="title">Contacto</h1>
+                <div className="container col-lg-10 space" >
                     <div className="row">
                         <div className="col col-lg-4">
                             <a className="bg-transparent style-btn no-gutters" target="_blank" href="https://github.com/angieeca06">

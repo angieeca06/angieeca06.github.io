@@ -68,6 +68,9 @@
     width: 80%;
     background-color: goldenrod;
 }
+.title{
+    text-align: center;
+}
 
 @media only screen and (max-width: 600px) {
     .flowerImg{

@@ -11,7 +11,7 @@ class PrincipalPage extends React.Component{
                         <img className="image img-fluid" src="https://cdn140.picsart.com/268591153011211.png?r1024x1024" alt="..." />
                     </div>
                     <div className="col col-lg-8 col-md-8 col-sm-8 col-12">
-                        <h1 className="text-center letterquery col-sm-12">Hi¡ I'm Angie and I'm a front end developer</h1>
+                        <h1 className="text-center letterquery col-sm-12">¡Hola! Soy Angie y soy desarrolladora Front End</h1>
                     </div>
                 </div>
                 <br />

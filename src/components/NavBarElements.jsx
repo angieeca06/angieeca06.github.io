@@ -5,25 +5,24 @@ import "./styles/Nav.css"
 class NavBarElements extends React.Component{
     render(){
         return(
-
             <nav className="navbar navBar navbar-expand-lg navbar-light  col-lg-12  sticky-top">
-                <a className="navbar-brand col-lg-2 col-sm-2"><Link className="nav-link active" to="/"><img className="mp" src="https://fotos.subefotos.com/a3728a632e8e2c8eefc7431043cb165co.png" alt=""/></Link></a>
+                <a className="navbar-brand col-lg-2 col-sm-2" href="#"><img className="mp" src="https://fotos.subefotos.com/a3728a632e8e2c8eefc7431043cb165co.png" alt=""/></a>
                 <button className="navbar-toggler  col-sm-1 colorPink " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav col-lg-10">
                         <li className="nav-item navbar-brand col-lg-3 text-center btn letter colorPink border border-dark">
-                            <a className="nav-link"><Link className="nav-link active" to="/about">About</Link></a>
+                            <a className="nav-link" href="#aboutMe">Acerca de mí</a>
                         </li>
                         <li className="nav-item navbar-brand col-lg-3 text-center btn colorGold letter border border-dark">
-                            <a className="nav-link"><Link className="nav-link active" to="/projects">Projects</Link></a>
+                            <a className="nav-link" href="#projects">Proyectos</a>
                         </li>
                         <li className="nav-item navbar-brand col-lg-3 text-center btn colorPink letter border border-dark">
-                            <a className="nav-link " ><Link className="nav-link active" to="/skills">Skills</Link></a>
+                            <a className="nav-link " href="#skills">Habilidades</a>
                         </li>
                         <li className="nav-item navbar-brand col-lg-3 text-center btn colorGold letter border border-dark">
-                            <a className="nav-link "><Link className="nav-link active" to="/contact" >Contact</Link></a>
+                            <a className="nav-link " href="#contact">Contacto</a>
                         </li>
                     </ul>
                 </div>
