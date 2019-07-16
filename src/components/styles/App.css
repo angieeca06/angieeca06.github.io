@@ -1,6 +1,7 @@
 .App{
-    background-image: url("https://wallpaperscute.com/wp-content/uploads/2018/02/Wallpaper-Rose-Gold-Glitter-Desktop.jpg");
-    /* background-size: cover; */
-    height: cover;
+    background-color: rgba(255, 158, 174, 0.349);
+    height: 100%;
+    width: 100%;
+
 }
 

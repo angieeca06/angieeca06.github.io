@@ -6,6 +6,7 @@ class AboutMe extends React.Component{
     render(){
         return(
             <div className="contrainer col-lg-12 col-sm-12" id="aboutMe">
+            <br/><br/><br/><br/><br/>
             <h1 className="title">Acerca de mí</h1>
                 <div className="row">
                     <div className="col col-lg-4 col-sm-4 divImg">

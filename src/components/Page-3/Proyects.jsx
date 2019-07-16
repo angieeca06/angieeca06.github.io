@@ -5,6 +5,7 @@ class Proyects extends React.Component{
     render(){
         return(
             <div className="bd-example" id="projects">
+                <br/><br/><br/><br/><br/>
                 <h1 className="title">Proyectos</h1>
                 <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
                     <ul className="carousel-indicators">
