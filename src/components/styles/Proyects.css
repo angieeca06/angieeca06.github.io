@@ -24,4 +24,10 @@
     color: white
 }
 
+.instruction{
+    color: red
+}
 
+.iconWarning{
+    font-size: 30px;
+}
