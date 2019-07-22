@@ -36,7 +36,7 @@ class Proyects extends React.Component{
                                     <br/>
                                     <br/>
                                 </div>
-                            </div>
+                            </div> 
                         </div>
                         <div className="carousel-item col-lg-12" data-interval="2000">
                             <a target="_blank" href="https://angieeca06.github.io/gdl-2019-01-bc-core-cipher/src/" ><img src="https://fotos.subefotos.com/c7a3870b38c50a2857685f60f16b7326o.png" className="d-block col-lg-8 img w-100" alt="..."/></a>
@@ -50,7 +50,7 @@ class Proyects extends React.Component{
                             </div>
                         </div>
                         <div className="carousel-item col-lg-12" data-interval="2000">
-                            <a target="_blank" href="https://angieeca06.github.io/GDL002-framework-social-network/#/" ><img src="https://fotos.subefotos.com/011b24a7e5fc0856285a8cdbb1d03860o.png" className="d-block col-lg-8 img w-100" alt="..."/></a>
+                            <a target="_blank" href="https://angieeca06.github.io/GDL002-framework-social-network/#/" ><img src="https://subefotos.com/ver/?1c449586547d64d7455684d7348f3bd8o.png" className="d-block col-lg-8 img w-100" alt="..."/></a>
                             <div className="container col-lg-12">
                                 <div className="card col-lg-8 card-color card-form  d-md-block">
                                     <h3 className="text-center">Red social</h3>
