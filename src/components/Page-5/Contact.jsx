@@ -5,6 +5,7 @@ class FormContact extends React.Component{
     render(){
         return(
             <div id="contact">
+                <br/><br/><br/><br/><br/>
                 <h1 className="title">Contacto</h1>
                 <div className="container col-lg-10 space" >
                     <h1 className="text-center email">Si quieres contactarte conmigo mandame un email  </h1>
