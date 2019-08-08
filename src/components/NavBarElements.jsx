@@ -6,8 +6,8 @@ class NavBarElements extends React.Component{
     render(){
         return(
             <nav className="navbar navBar navbar-expand-lg navbar-light  col-lg-12  sticky-top">
-                <a className="navbar-brand col-lg-2 col-sm-2" href="#"><img className="mp" src="https://fotos.subefotos.com/a3728a632e8e2c8eefc7431043cb165co.png" alt=""/></a>
-                <button className="navbar-toggler  col-sm-1 colorPink " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <a className="navbar-brand col-lg-2 col-sm-2 col-2" href="#"><img className="mp" src="https://fotos.subefotos.com/a3728a632e8e2c8eefc7431043cb165co.png" alt=""/></a>
+                <button className="navbar-toggler  col-sm-3 col-md-3 col-3 colorPink " type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">

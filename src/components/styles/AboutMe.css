@@ -4,6 +4,10 @@
     height: 100%;
 }
 
+.marginAboutMe{
+    margin-top: 50px
+}
+
 @media only screen and (max-width: 600px) {
     .letter {
         font-size: 20px
@@ -17,5 +21,15 @@
     .divImg{
         margin-top: 0%;
         padding: 0%;
+        margin-right: auto;
+        margin-left: auto
+    }
+
+    .title{
+        font-size: 20px
+    }
+
+    .marginAboutMe{
+        margin-top: 50px
     }
   }

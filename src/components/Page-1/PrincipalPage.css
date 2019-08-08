@@ -2,6 +2,10 @@
     opacity: 0.8;
 }
 
+.instruccion{
+    margin-top: 80px
+}
+
 .row{
     align-items: center;
     justify-content: center;
@@ -22,7 +26,6 @@
     }
     .instruccion{
         margin-top: 50px;
-        
     }
     .image{
         margin-top: 20px;
