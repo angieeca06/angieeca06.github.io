@@ -1,0 +1,12 @@
+.letterFooter{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer{
+    margin-top:50px;
+    width:100%;
+    height:auto;
+    background-color:rgb(255, 192, 203);
+}

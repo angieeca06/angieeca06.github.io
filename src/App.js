@@ -8,6 +8,7 @@ import Skills from './components/Page-4/Skills';
 import Proyects from './components/Page-3/Proyects';
 import Contact from './components/Page-5/Contact';
 import NavBarElements from './components/NavBarElements';
+import Footer from './components/Footer';
 
 class App extends React.Component{
   render(){
@@ -24,6 +25,7 @@ class App extends React.Component{
           <Proyects />
           <br/>
           <Contact />
+          <Footer />
         </div>
       </HashRouter>
     )

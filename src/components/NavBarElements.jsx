@@ -12,18 +12,18 @@ class NavBarElements extends React.Component{
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav col-lg-10 nav-pills">
-                        <li className="nav-item navbar-brand col-lg-3 text-center btn letter colorPink border border-dark">
-                            <a className="nav-link navLetter" href="#aboutMe">Acerca de mí</a>
+                        <li className="nav-item navbar-brand col-lg-3 text-center btn letter colorGold border border-dark">
+                            <a className="text-decoration-none navLetter" href="#aboutMe">Acerca de mí</a>
                         </li>
                         <li className="nav-item navbar-brand col-lg-3 text-center btn colorGold letter border border-dark">
-                            <a className="nav-link navLetter" href="#skills">Habilidades</a>
+                            <a className="text-decoration-none navLetter" href="#skills">Habilidades</a>
                         </li>
-                        <li className="nav-item navbar-brand col-lg-3 text-center btn colorPink letter border border-dark">
-                            <a className="nav-link navLetter" href="#projects">Proyectos</a>
+                        <li className="nav-item navbar-brand col-lg-3 text-center btn colorGold letter border border-dark">
+                            <a className="text-decoration-none navLetter" href="#projects">Proyectos</a>
                         </li>
                         
                         <li className="nav-item navbar-brand col-lg-3 text-center btn colorGold letter border border-dark">
-                            <a className="nav-link navLetter" href="#contact">Contacto</a>
+                            <a className="text-decoration-none navLetter" href="#contact">Contacto</a>
                         </li>
                     </ul>
                 </div>
