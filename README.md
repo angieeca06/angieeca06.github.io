@@ -2,7 +2,7 @@
 
 ## Breve explicación de mi experiencia, proyectos y habilidades 
 
-### Si gustas contactarme visita esté link https://angieeca06.github.io/#/
+### Si gustas contactarme visita éste link https://angieeca06.github.io/#/
 
 Angélica Elizabeth Caballero Álvarez 
 
